@@ -1,0 +1,150 @@
+{
+    "education":[
+        {
+            "id": 1,
+            "year": 2020,
+            "description": "Completion of highschool with a bachelor's pass.",
+            "place": "Livingstone High School"
+        },
+        {
+            "id": 2,
+            "year": 2021,
+            "description": "Acquired my NQF qualifications in mechanical engineering, first aid, safety management and fire fighting.",
+            "place": "AESDP"
+        },
+        {
+            "id": 3,
+            "year": 2023,
+            "description": "Completion of a full-stack web development coding bootcamp.",
+            "place": "Life Choice's Coding Academy"
+        }
+    ],
+    "experience":[
+        {
+            "id": 1,
+            "timeline": "03/2019 - 06/2019",
+            "company": "Mayfair Real Estate",
+            "title": "Intern",
+            "information": "Held an intern position in the company's finance department, mainly completed administrative tasks."
+        },
+        {
+            "id": 2,
+            "timeline": "09/2021 - 01/2022",
+            "company": "Toyota Rondebosch East",
+            "title": "Apprentice",
+            "information": "Supported motor technicians on-site while I was completing my mechanical engineering practicals."
+        },
+        {
+            "id": 3,
+            "timeline": "02/2022 - 01/2023",
+            "company": "Adnaan Klein Motor Repairs",
+            "title": "Motor Technician",
+            "information": "worked specifically on internal combustion engines."
+        },
+        {
+            "id": 4,
+            "timeline": "03/2023 - 08/2023",
+            "company": "Solo's Cloud Distributions",
+            "title": "Sales Representative",
+            "information": "Worked closely with clients in the logisitcs industry."
+        },
+        {
+            "id": 5,
+            "timeline": "04/2024 - 07/2024",
+            "company": "LC Studio",
+            "title": "Intern",
+            "information": "Tech-intern, acquiring accredited certifications while working on client's projects."
+        },
+        {
+            "id": 6,
+            "timeline": "07/2024 - Current",
+            "company": "Loop",
+            "title": "Junior Software Engineer",
+            "information": "Mainly working with restful API's and SQL for application integration."
+        }
+    ],
+    "tech": [
+        {
+            "id": 1,
+            "name": "HTML",
+            "img_url": "https://iili.io/JhL1hAJ.png"
+        },
+        {
+            "id": 2,
+            "name": "CSS",
+            "img_url": "https://iili.io/JhLE3iB.png"
+        },
+        {
+            "id": 3,
+            "name": "JavaScript",
+            "img_url":"https://iili.io/JhLERfI.png"
+        },
+        {
+            "id": 4,
+            "name": "MySQL",
+            "img_url": "https://iili.io/JhtMAmX.png"
+        },
+        {
+            "id": 5,
+            "name": "Node JS",
+            "img_url": "https://iili.io/JhtNltI.png"
+        },
+        {
+            "id": 6,
+            "name": "Vue JS",
+            "img_url": "https://iili.io/JhtSbfI.png"
+        },
+        {
+            "id": 7,
+            "name": "Python",
+            "img_url": "https://iili.io/2JXBt4t.jpg"
+        },
+        {
+            "id": 8,
+            "name": "C++",
+            "img_url": "https://iili.io/2JXBt4t.jpg"
+        },
+        {
+            "id": 9,
+            "name": "PostgreSQL",
+            "img_url": "https://iili.io/2JXBt4t.jpg"
+        },
+        {
+            "id": 10,
+            "name": "TypeScript",
+            "img_url": "https://iili.io/2JXBt4t.jpg" 
+        }
+    ],
+    "cert": [
+        {
+            "id": 1,
+            "certName": "Operating Systems Basic",
+            "certimg": "https://iili.io/JihY6Sn.png",
+            "certLink": "womp womp"
+        },
+        {
+            "id": 2,
+            "certName": "Cybersecurity Essentials",
+            "certimg": "https://iili.io/JihcD37.png",
+            "certLink": "de"
+        },
+        {
+            "id": 3,
+            "certName": "Ethical Hacker",
+            "certimg": "https://iili.io/d9T38bf.png",
+            "certLink": "credily"
+        },
+        {
+            "id": 4,
+            "certName": "SCRUM",
+            "certimg": "https://iili.io/JiWHxiF.png",
+            "certLink": "linkedin"
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "name": "WOMP WOMP"
+        }
+    ]
+}
