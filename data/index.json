@@ -97,47 +97,47 @@
         {
             "id": 7,
             "name": "Python",
-            "img_url": "https://iili.io/2JXBt4t.jpg"
+            "img_url": "https://iili.io/2xoqk6Q.th.png"
         },
         {
             "id": 8,
             "name": "C++",
-            "img_url": "https://iili.io/2JXBt4t.jpg"
+            "img_url": "https://iili.io/2xoTrQt.th.png"
         },
         {
             "id": 9,
             "name": "PostgreSQL",
-            "img_url": "https://iili.io/2JXBt4t.jpg"
+            "img_url": "https://iili.io/2xo5kPt.th.png"
         },
         {
             "id": 10,
             "name": "TypeScript",
-            "img_url": "https://iili.io/2JXBt4t.jpg" 
+            "img_url": "https://iili.io/2xo7MsS.th.png" 
         }
     ],
     "cert": [
         {
             "id": 1,
             "certName": "Operating Systems Basic",
-            "certimg": "https://iili.io/JihY6Sn.png",
+            "certimg": "https://www.credly.com/badges/3ab2aecf-5ce6-4ba4-bebb-ff7b5e07b20b/public_url",
             "certLink": "womp womp"
         },
         {
             "id": 2,
             "certName": "Cybersecurity Essentials",
-            "certimg": "https://iili.io/JihcD37.png",
+            "certimg": "https://www.credly.com/badges/e4dd32c0-ad90-4725-8f4d-cfb716b5a48a/public_url",
             "certLink": "de"
         },
         {
             "id": 3,
             "certName": "Ethical Hacker",
-            "certimg": "https://iili.io/d9T38bf.png",
+            "certimg": "https://www.credly.com/badges/0362c592-4c05-4d2a-876f-5e0b3c3a03cd/public_url",
             "certLink": "credily"
         },
         {
             "id": 4,
             "certName": "SCRUM",
-            "certimg": "https://iili.io/JiWHxiF.png",
+            "certimg": "https://iili.io/2xoXsv2.th.png",
             "certLink": "linkedin"
         }
     ],
