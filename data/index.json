@@ -57,7 +57,7 @@
         },
         {
             "id": 6,
-            "timeline": "07/2024 - Current",
+            "timeline": "07/2024 - 01/2025",
             "company": "Loop",
             "title": "Junior Software Engineer",
             "information": "Mainly working with restful API's and SQL for application integration."
@@ -98,11 +98,6 @@
             "id": 7,
             "name": "Python",
             "img_url": "https://iili.io/2xoqk6Q.th.png"
-        },
-        {
-            "id": 8,
-            "name": "C++",
-            "img_url": "https://iili.io/2xoTrQt.th.png"
         },
         {
             "id": 9,
